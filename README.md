@@ -1,4 +1,4 @@
-*This is a copy of the original introductory post from our [forum](https://forum.makeit.zone/t/element-14-micro-bit-summer-of-code-club-challenge-2019) and also published to [Element14](https://www.element14.com/community/community/stem-academy/microbit/blog/2019/08/07/makeitzone-microbit-soccc-2019-blog-1-project-outline)*
+*This is a copy of the original introductory post from our [forum](https://forum.makeit.zone/t/element-14-micro-bit-summer-of-code-club-challenge-2019) and also published to [Element14](https://www.element14.com/community/community/stem-academy/microbit/blog/2019/08/07/makeitzone-microbit-soccc-2019-blog-1-project-outline)*.
 
 # MicroBit-LockBox-Challenge
 
