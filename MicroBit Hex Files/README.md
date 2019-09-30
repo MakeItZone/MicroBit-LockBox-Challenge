@@ -4,6 +4,7 @@ These files can be directly loaded into [MakeCode for MicroBit](https://makecode
 * [microbit-sample-puzzlebit.hex](microbit-sample-puzzlebit.hex) - is a skeleton "puzzlebit" application that shows how to send `lock` and `unlock` messages to the "safe."
 * [microbit-basic-compass-puzzlebit.hex](microbit-basic-compass-puzzlebit.hex) - a very simple PuzzleBit that must be turned to face a certain direction and also have the "A" key pressed to send the `unlock` message.
 
+There are also PDF "print outs" of each of the programs.
 
 ## Master Safe Program
 
