@@ -1,3 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.4.1  -->
-<svg enable-background="new 0 0 15.8154397 17.5" height="17.5cm" shaper:fusionaddin="version:1.4.1" version="1.1" viewBox="0 0 15.8154397 17.5" width="15.8154397cm" x="0cm" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" xmlns:xlink="http://www.w3.org/1999/xlink" y="0cm"><path d="M-0.5374646,12 L-0.8374646,12 -0.8374646,8 -0.5374646,8 -0.5374646,5 -0.8374646,5 -0.8374646,3.7088822 A0.75,0.75 0 0,0 -1.1535984,3.0971142 A1.1845603,1.1845603 125.3442909 0,1 -1.0849352,1.1194456 A0.75,0.75 58.6326454 0,0 -0.7376638,0.61453 A0.75,0.75 190.4062662 0,1 -0,-0 L14.1625354,0 14.1625354,5 13.8625354,5 13.8625354,8 14.1625354,8 14.1625354,12 13.8625354,12 13.8625354,15 14.1625354,15 14.1625354,17.5 11.6625354,17.5 11.6625354,17.2 8.6625354,17.2 8.6625354,17.5 4.6625354,17.5 4.6625354,17.2 1.6625354,17.2 1.6625354,17.5 -0.8374646,17.5 -0.8374646,15 -0.5374646,15 -0.5374646,12z" fill="rgb(0,0,0)" shaper:cutDepth="0.003" shaper:pathType="exterior" transform="matrix(1,0,0,-1,1.6529043,17.5)" vector-effect="non-scaling-stroke" /><path d="M-0.8374646,2.1308794 a0.3691206,0.3691206 0 1,1 0.7382412,0 a0.3691206,0.3691206 0 1,1 -0.7382412,0z" fill="rgb(255,255,255)" shaper:cutDepth="0.003" shaper:pathType="interior" stroke="rgb(0,0,0)" stroke-width="2" transform="matrix(1,0,0,-1,1.6529043,17.5)" vector-effect="non-scaling-stroke" /></svg>
+
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 15.8154397 17.5"
+   height="594mm"
+   shaper:fusionaddin="version:1.4.1"
+   version="1.1"
+   viewBox="0 0 841.00002 593.99998"
+   width="841mm"
+   x="0cm"
+   xml:space="preserve"
+   y="0cm"
+   id="svg6"
+   sodipodi:docname="top-and-bottom.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+     id="metadata12"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs10" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview8"
+     showgrid="false"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:zoom="0.35680952"
+     inkscape:cx="-236.63063"
+     inkscape:cy="1139.1518"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" /><path
+     inkscape:connector-curvature="0"
+     style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.1;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 42.745765,69.127119 h -3 v 40.000001 h 3 v 30 h -3 v 12.91118 a 7.4999998,7.4999998 0 0 1 -3.16134,6.11768 11.845603,11.845603 0 0 0 0.68664,19.77668 7.4999998,7.4999998 0 0 1 3.47271,5.04916 7.4999998,7.4999998 0 0 0 7.37664,6.1453 H 189.74576 v -50 h -3 v -30 h 3 V 69.127119 h -3 v -30 h 3 v -25 h -25 v 3 h -29.99999 v -3 H 94.745765 v 3 h -30 v -3 h -25 v 25 h 3 z"
+     shaper:cutDepth="0.003"
+     shaper:pathType="exterior"
+     id="path2" /><path
+     inkscape:connector-curvature="0"
+     style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 39.745765,167.81832 a 3.6912061,3.6912061 0 1 0 7.38241,0 3.6912061,3.6912061 0 1 0 -7.38241,0 z"
+     shaper:cutDepth="0.003"
+     shaper:pathType="interior"
+     id="path4" /></svg>

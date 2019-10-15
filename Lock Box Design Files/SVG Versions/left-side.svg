@@ -1,3 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.4.1  -->
-<svg enable-background="new 0 0 20 15" height="15cm" shaper:fusionaddin="version:1.4.1" version="1.1" viewBox="0 0 20 15" width="20cm" x="0cm" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" xmlns:xlink="http://www.w3.org/1999/xlink" y="0cm"><path d="M19.4,0 L0,0 -0,2.5 -0.3,2.5 -0.3,5.5 -0,5.5 -0,9.5 -0.3,9.5 -0.3,12.5 -0,12.5 -0,15 4.7,15 4.7,14.7 7.7,14.7 7.7,15 11.7,15 11.7,14.7 14.7,14.7 14.7,15 19.4,15 19.4,12.5 19.7,12.5 19.7,9.5 19.4,9.5 19.4,5.5 19.7,5.5 19.7,2.5 19.4,2.5 19.4,0z" fill="rgb(0,0,0)" shaper:cutDepth="0.003" shaper:pathType="exterior" transform="matrix(1,0,0,-1,0.3,15)" vector-effect="non-scaling-stroke" /></svg>
+
+<svg
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 20 15"
+   height="594mm"
+   shaper:fusionaddin="version:1.4.1"
+   version="1.1"
+   viewBox="0 0 841.00002 593.99998"
+   width="841mm"
+   x="0cm"
+   xml:space="preserve"
+   y="0cm"
+   id="svg4"
+   sodipodi:docname="left-side.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+     id="metadata10"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs8" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview6"
+     showgrid="false"
+     units="mm"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.20813889"
+     inkscape:cx="253.4613"
+     inkscape:cy="826.87262"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" /><path
+     inkscape:connector-curvature="0"
+     style="vector-effect:non-scaling-stroke;fill:none;stroke-width:0.1;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 202.50847,163.0678 H 8.5084745 v -25 h -3 v -30 h 3 v -40 h -3 V 38.067797 h 3 v -25 H 55.508476 v 3 h 30.000005 v -3 h 39.999989 v 3 h 30 v -3 h 47 v 25 h 3 V 68.0678 h -3 v 40 h 3 v 30 h -3 z"
+     shaper:cutDepth="0.003"
+     shaper:pathType="exterior"
+     id="path2" /></svg>
